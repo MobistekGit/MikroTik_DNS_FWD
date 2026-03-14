@@ -7,7 +7,7 @@ permissions:
   contents: write
 env:
   MAX_ENTRIES_PER_FILE: 150
-  GROUP: "anime,art,casino,education,games,messengers,music,news,porn,shop,socials,tools,torrent,video"
+  GROUP: "anime,art,casino,education,games,messengers,music,news,shop,socials,tools,torrent,video"
   SITE: ""
   GROUP_URL_TEMPLATE: https://iplist.opencck.org/?format=json&data=domains&wildcard=1&group={group}
   SITE_URL_TEMPLATE: https://iplist.opencck.org/?format=json&data=domains&wildcard=1&site={site}
